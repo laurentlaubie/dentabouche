@@ -1,1 +1,6 @@
 wp-config.php
+wp
+wp-content
+vendor
+composer.lock
+.htaccess
